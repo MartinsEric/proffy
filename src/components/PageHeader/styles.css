@@ -45,7 +45,7 @@
   font-size: 1.6rem;
   line-height: 2.6rem;
   color: var(--color-text-in-primary);
-  margin-top: 2.4rem;
+  margin-top: 1.2rem;
 }
 
 @media (min-width: 700px) {
